@@ -2,5 +2,5 @@ Converstion finction needed:
 
 - Dollars to Cents
 - Gallons to Liters
-- Hours to Minutes
+- Feet to Inches
 
